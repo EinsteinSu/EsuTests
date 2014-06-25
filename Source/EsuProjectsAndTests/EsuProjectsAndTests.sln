@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supeng.Hr.RemotingService", "Supeng.Hr.RemotingService\Supeng.Hr.RemotingService.csproj", "{6CDCCFDC-1FBB-40B4-A8DC-C4461A5A3804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supeng.Hr.RemotingService.Interfaces", "Supeng.Hr.RemotingService.Interfaces\Supeng.Hr.RemotingService.Interfaces.csproj", "{6AEBA52A-E8ED-4960-A9A8-79D61B801D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supeng.Hr.RemotingService.Client", "Supeng.Hr.RemotingService.Client\Supeng.Hr.RemotingService.Client.csproj", "{0EE1D510-93F1-41C9-8F02-B3B2A5DFEB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDCCFDC-1FBB-40B4-A8DC-C4461A5A3804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDCCFDC-1FBB-40B4-A8DC-C4461A5A3804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDCCFDC-1FBB-40B4-A8DC-C4461A5A3804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDCCFDC-1FBB-40B4-A8DC-C4461A5A3804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEBA52A-E8ED-4960-A9A8-79D61B801D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEBA52A-E8ED-4960-A9A8-79D61B801D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEBA52A-E8ED-4960-A9A8-79D61B801D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEBA52A-E8ED-4960-A9A8-79D61B801D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE1D510-93F1-41C9-8F02-B3B2A5DFEB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE1D510-93F1-41C9-8F02-B3B2A5DFEB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE1D510-93F1-41C9-8F02-B3B2A5DFEB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE1D510-93F1-41C9-8F02-B3B2A5DFEB46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
