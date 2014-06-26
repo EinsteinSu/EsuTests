@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supeng.Hr.RemotingService.I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supeng.Hr.RemotingService.Client", "Supeng.Hr.RemotingService.Client\Supeng.Hr.RemotingService.Client.csproj", "{0EE1D510-93F1-41C9-8F02-B3B2A5DFEB46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskVisitWinFormControl.Tests", "TaskVisitWinFormControl.Tests\TaskVisitWinFormControl.Tests.csproj", "{D8EA4151-7961-4AB6-9DE5-7A9E78358AB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{0EE1D510-93F1-41C9-8F02-B3B2A5DFEB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EE1D510-93F1-41C9-8F02-B3B2A5DFEB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EE1D510-93F1-41C9-8F02-B3B2A5DFEB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8EA4151-7961-4AB6-9DE5-7A9E78358AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EA4151-7961-4AB6-9DE5-7A9E78358AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EA4151-7961-4AB6-9DE5-7A9E78358AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EA4151-7961-4AB6-9DE5-7A9E78358AB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
